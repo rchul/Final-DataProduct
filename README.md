@@ -1,4 +1,4 @@
-# Final-DataProduct
+# Course Project: Shiny Application and Reproducible Pitch
 Hi, Ladies and Gents.
 I'm Creating an Interactive Regression Plot which you can select your predictor and combine them just by selecting the predictors.
 It will provide you with an Interacable graph with Regression line and Rsquared Value of the model. 
